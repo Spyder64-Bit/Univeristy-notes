@@ -10,9 +10,9 @@
 
 ## Stato corsi
 
-| Materia | Stato | Ultima settimana |
+| Materia | Stato | Descrizione Stato |
 |--------|------|----------------|
-| Basi di Dati 2 | 🟡 | Settimana 02 |
-| Algoritmi | 🟢 | Settimana 03 |
-| Reti | 🔴 | Settimana 01 |
-| SO2 | 🟡 | Settimana 02 |
+| Basi di Dati 2 | 🟢 | Up To Date |
+| Algoritmi | 🟢 | Up To Date |
+| Reti | 🔴 | Still Empty |
+| SO2 | 🔴 | Still Empty |
